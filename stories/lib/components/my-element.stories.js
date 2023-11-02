@@ -1,4 +1,4 @@
-import  "../../../lib/components/my-element"
+import  "../../../lib/components/my-element.js"
 
 export default {
   component: 'my-element'
